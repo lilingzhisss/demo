@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor magentaColor];
-    NSLog(@"oc啊");
+    NSLog(@"oc啊1");
 }
 
 
