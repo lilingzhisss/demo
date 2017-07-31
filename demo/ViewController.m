@@ -19,6 +19,9 @@
     self.view.backgroundColor = [UIColor magentaColor];
     NSLog(@"oc啊1release");
     NSLog(@"oc啊2release");
+//    sss
+//    sss
+//    222
 }
 
 
