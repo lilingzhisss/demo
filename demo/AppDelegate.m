@@ -18,6 +18,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
 //    ssss
+//    kSecKeyAlgorithmECDSASignatureDigestX962SHA1
     return YES;
 }
 
