@@ -19,6 +19,10 @@
     // Override point for customization after application launch.
 
 //    ssss
+    
+    
+    
+    
 //    kSecKeyAlgorithmECDSASignatureDigestX962SHA1
 
     
