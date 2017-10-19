@@ -24,6 +24,7 @@
     //3
     //4
     //5
+    //6
 //    kSecKeyAlgorithmECDSASignatureDigestX962SHA1
 
     
