@@ -16,6 +16,7 @@
 		D90B02391F2E22F600E7E3A5 /* demoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D90B02381F2E22F600E7E3A5 /* demoTests.m */; };
 		D90B02441F2E22F600E7E3A5 /* demoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = D90B02431F2E22F600E7E3A5 /* demoUITests.m */; };
 		D98F353220935BED0054F9C5 /* UIView+ssssssss.m in Sources */ = {isa = PBXBuildFile; fileRef = D98F353120935BED0054F9C5 /* UIView+ssssssss.m */; };
+		D99B548620129DE700D09028 /* 05-js演练.html in Resources */ = {isa = PBXBuildFile; fileRef = D99B548520129DE700D09028 /* 05-js演练.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		D90B02451F2E22F600E7E3A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D98F353020935BED0054F9C5 /* UIView+ssssssss.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+ssssssss.h"; sourceTree = "<group>"; };
 		D98F353120935BED0054F9C5 /* UIView+ssssssss.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+ssssssss.m"; sourceTree = "<group>"; };
+		D99B548520129DE700D09028 /* 05-js演练.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = "05-js演练.html"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 				D90B022A1F2E22F600E7E3A5 /* Assets.xcassets */,
 				D90B022C1F2E22F600E7E3A5 /* LaunchScreen.storyboard */,
 				D90B022F1F2E22F600E7E3A5 /* Info.plist */,
+				D99B548520129DE700D09028 /* 05-js演练.html */,
 				D90B021E1F2E22F600E7E3A5 /* Supporting Files */,
 			);
 			path = demo;
@@ -252,6 +255,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D90B022E1F2E22F600E7E3A5 /* LaunchScreen.storyboard in Resources */,
+				D99B548620129DE700D09028 /* 05-js演练.html in Resources */,
 				D90B022B1F2E22F600E7E3A5 /* Assets.xcassets in Resources */,
 				D90B02291F2E22F600E7E3A5 /* Main.storyboard in Resources */,
 			);
