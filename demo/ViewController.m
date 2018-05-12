@@ -63,8 +63,6 @@ typedef NS_ENUM(NSInteger, SSSWritingDirection) {
     22222222
     333333333
     44444444444
-    55555555
-    
 //    dispatch_semaphore_signal(_semaphore);
 
 }
