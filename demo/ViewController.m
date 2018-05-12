@@ -59,7 +59,7 @@ typedef NS_ENUM(NSInteger, SSSWritingDirection) {
 
 -(void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event
 {
-    
+    11111
 //    dispatch_semaphore_signal(_semaphore);
 
 }
